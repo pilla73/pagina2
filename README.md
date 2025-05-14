@@ -1,4 +1,4 @@
-<!DOCTYOE html>
+
 <html>
 <head>
  <title>tabla</title>
